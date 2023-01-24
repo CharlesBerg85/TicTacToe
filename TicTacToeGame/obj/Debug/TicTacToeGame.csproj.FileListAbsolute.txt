@@ -1,0 +1,8 @@
+C:\Users\The Berg\OneDrive\Coding Logic & Algorithms\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.dll
+C:\Users\The Berg\OneDrive\Coding Logic & Algorithms\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\The Berg\OneDrive\Coding Logic & Algorithms\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\The Berg\OneDrive\Coding Logic & Algorithms\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.TicTacToe.resources
+C:\Users\The Berg\OneDrive\Coding Logic & Algorithms\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Users\The Berg\OneDrive\Coding Logic & Algorithms\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\The Berg\OneDrive\Coding Logic & Algorithms\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.dll
+C:\Users\The Berg\OneDrive\Coding Logic & Algorithms\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
